@@ -17,3 +17,5 @@ just a specific part then use the corresponding file.
 ```
 python main.py
 ```
+
+You can also add the file to your cron for recurring execution.
